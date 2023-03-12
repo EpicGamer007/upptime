@@ -40,19 +40,19 @@
     "url": "https://status.abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/status.abhay7.ml.ico",
     "slug": "status-page",
-    "status": "down",
-    "uptime": "5.91%",
-    "uptimeDay": "5.91%",
-    "uptimeWeek": "5.91%",
-    "uptimeMonth": "5.91%",
-    "uptimeYear": "5.91%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
+    "time": 302,
+    "timeDay": 302,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-03-12": 0
+      "2023-03-12": 7
     }
   }
 ]
