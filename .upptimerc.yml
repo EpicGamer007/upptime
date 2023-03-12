@@ -7,12 +7,8 @@ sites:
     url: https://abhay7.ml
   - name: Blog
     url: https://blog.abhay7.ml
-  - name: Status Page (uptime-kuma)
+  - name: Status Page
     url: https://status.abhay7.ml
-  - name: DDrive (3.X)
-    url: https://status.abhay7.ml
-  - name: This Site
-    url: https://epicgamer007.github.io/upptime
 
 assignees:
   - EpicGamer007
@@ -20,7 +16,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptime.abhay7.ml
+  cname: status.abhay7.ml
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
