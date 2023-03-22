@@ -4,19 +4,19 @@
     "url": "https://abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/abhay7.ml.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 671,
     "timeDay": 542,
     "timeWeek": 740,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2023-03-22": 10
+      "2023-03-22": 1
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://blog.abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/blog.abhay7.ml.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 514,
@@ -35,14 +35,16 @@
     "timeWeek": 550,
     "timeMonth": 514,
     "timeYear": 514,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 1
+    }
   },
   {
     "name": "Status Page",
     "url": "https://status.abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/status.abhay7.ml.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 277,
     "timeMonth": 288,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   }
 ]
