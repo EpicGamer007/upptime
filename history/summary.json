@@ -4,19 +4,19 @@
     "url": "https://abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/abhay7.ml.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 637,
-    "timeWeek": 673,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "status": "up",
+    "uptime": "99.25%",
+    "uptimeDay": "91.82%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.25%",
+    "time": 1130,
+    "timeDay": 1929,
+    "timeWeek": 1317,
+    "timeMonth": 1130,
+    "timeYear": 1130,
     "dailyMinutesDown": {
-      "2023-03-23": 0
+      "2023-03-23": 118
     }
   },
   {
