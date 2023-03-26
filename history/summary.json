@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/abhay7.ml.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
-    "time": 1084,
-    "timeDay": 498,
-    "timeWeek": 1287,
-    "timeMonth": 1084,
-    "timeYear": 1084,
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 1065,
+    "timeDay": 536,
+    "timeWeek": 1264,
+    "timeMonth": 1065,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2023-03-23": 118
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 639,
-    "timeWeek": 506,
-    "timeMonth": 502,
-    "timeYear": 502,
+    "time": 499,
+    "timeDay": 449,
+    "timeWeek": 482,
+    "timeMonth": 499,
+    "timeYear": 499,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 134,
-    "timeWeek": 253,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 279,
+    "timeDay": 604,
+    "timeWeek": 289,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
