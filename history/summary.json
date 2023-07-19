@@ -4,19 +4,19 @@
     "url": "https://abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/abhay7.ml.ico",
     "slug": "portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.35%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.44%",
     "time": 2380,
     "timeDay": 4555,
-    "timeWeek": 3246,
+    "timeWeek": 2604,
     "timeMonth": 3506,
     "timeYear": 2380,
     "dailyMinutesDown": {
-      "2023-07-19": 9,
+      "2023-07-19": 0,
       "2023-07-14": 21,
       "2023-07-12": 147,
       "2023-07-01": 69,
@@ -42,9 +42,9 @@
     "url": "https://blog.abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/blog.abhay7.ml.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +53,18 @@
     "timeWeek": 339,
     "timeMonth": 596,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-19": 0
+    }
   },
   {
     "name": "Status Page",
     "url": "https://status.abhay7.ml",
     "icon": "https://icons.duckduckgo.com/ip3/status.abhay7.ml.ico",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,6 +73,8 @@
     "timeWeek": 367,
     "timeMonth": 309,
     "timeYear": 304,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-19": 0
+    }
   }
 ]
